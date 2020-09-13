@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Escolta</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZWxjaGFuZ29kaWF6IiwiYSI6ImNrZjBuY2M0bzB1Z20yeXFjYnh0b20xNjgifQ.kPbUBSPv7ULrKV7b75gOCg</string>
+    <string name="navigation_guidance_day" translatable="false">mapbox://styles/mapbox/navigation-guidance-day-v4</string>
+</resources>
